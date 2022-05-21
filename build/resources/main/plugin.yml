@@ -1,0 +1,6 @@
+name: AppleConfigs
+version: 2.0
+main: apple.configs.AppleConfigsPlugin
+api-version: 1.18
+authors: [ appleptr16 ]
+softdepend: [ LoadDependencies ]

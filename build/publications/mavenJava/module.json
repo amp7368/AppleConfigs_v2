@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "apple.configs",
+    "module": "AppleConfigs",
+    "version": "2.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "AppleConfigs-2.0-SNAPSHOT.jar",
+          "url": "AppleConfigs-2.0-SNAPSHOT.jar",
+          "size": 25303,
+          "sha512": "d5ca49bd570a5e329ad54227e582faa84808688f5e3a197afdec88f04701c7f83240896446d2b69cf817dadc8ac6b69912334ec8d14b736119a05cf773c91adf",
+          "sha256": "53359f29d1eb4faf5577acbe6ed718e20ef43a11f5ee8ebd3bab1d4f6705f275",
+          "sha1": "bc6077b6df2d83e73745acdd3b66ac9e3ac76ca9",
+          "md5": "1e2726868d3acac1ec3e2b6d6e2c67b9"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "AppleConfigs-2.0-SNAPSHOT.jar",
+          "url": "AppleConfigs-2.0-SNAPSHOT.jar",
+          "size": 25303,
+          "sha512": "d5ca49bd570a5e329ad54227e582faa84808688f5e3a197afdec88f04701c7f83240896446d2b69cf817dadc8ac6b69912334ec8d14b736119a05cf773c91adf",
+          "sha256": "53359f29d1eb4faf5577acbe6ed718e20ef43a11f5ee8ebd3bab1d4f6705f275",
+          "sha1": "bc6077b6df2d83e73745acdd3b66ac9e3ac76ca9",
+          "md5": "1e2726868d3acac1ec3e2b6d6e2c67b9"
+        }
+      ]
+    }
+  ]
+}
